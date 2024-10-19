@@ -1,0 +1,17 @@
+module chrononutrition
+typeinfo appchrononutrition.qmltypes
+prefer :/qt/qml/chrononutrition/
+Main 1.0 Main.qml
+AccountCreationView 1.0 views/AccountCreationView.qml
+CameraInputView 1.0 views/CameraInputView.qml
+ForgotPasswordView 1.0 views/ForgotPasswordView.qml
+GetStartedView 1.0 views/GetStartedView.qml
+HealthConditionForm 1.0 views/HealthConditionForm.qml
+NutritionAndMedicationClocksView 1.0 views/NutritionAndMedicationClocksView.qml
+NutritionReviewView 1.0 views/NutritionReviewView.qml
+PersonalisedRecommendationsView 1.0 views/PersonalisedRecommendationsView.qml
+SignInView 1.0 views/SignInView.qml
+TimingClock 1.0 views/TimingClock.qml
+WelcomeView 1.0 views/WelcomeView.qml
+BottomNavigationBar 1.0 components/BottomNavigationBar.qml
+

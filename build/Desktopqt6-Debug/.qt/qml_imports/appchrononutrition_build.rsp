@@ -1,0 +1,15 @@
+-rootPath
+/home/kyle/Programming/cpp/qt/chrononutrition
+-cmake-output
+-output-file
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/.qt/qml_imports/appchrononutrition_build.cmake
+-importPath
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/chrononutrition
+-importPath
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/.qt/rcc/qmake_chrononutrition.qrc
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/.qt/rcc/appchrononutrition_raw_qml_0.qrc
+/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/.qt/rcc/appchrononutrition_raw_qml_0_extra_qmldirs.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/chrononutrition">
+    <file alias="qmldir">/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/chrononutrition/qmldir</file>
+  </qresource>
+</RCC>
+

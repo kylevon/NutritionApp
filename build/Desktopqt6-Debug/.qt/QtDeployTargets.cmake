@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appchrononutrition_FILE /home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/appchrononutrition)
+set(__QT_DEPLOY_TARGET_appchrononutrition_TYPE EXECUTABLE)

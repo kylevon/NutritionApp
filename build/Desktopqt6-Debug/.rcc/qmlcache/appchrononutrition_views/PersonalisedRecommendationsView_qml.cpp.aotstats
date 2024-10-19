@@ -1,0 +1,236 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: backButton",
+                        "functionName": "text",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: backButton",
+                        "functionName": "color",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on scale.",
+                        "functionName": "scale",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: continueButton",
+                        "functionName": "color",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot load property text from (component in /home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/PersonalisedRecommendationsView.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 120
+                    }
+                ],
+                "filepath": "/home/kyle/Programming/cpp/qt/chrononutrition/build/Desktopqt6-Debug/PersonalisedRecommendationsView.qml"
+            }
+        ],
+        "moduleId": "chrononutrition(appchrononutrition)"
+    }
+]

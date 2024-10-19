@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/qt/qml/chrononutrition/">
+    <file alias="Main.qml">/home/kyle/Programming/cpp/qt/chrononutrition/Main.qml</file>
+    <file alias="views/AccountCreationView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/AccountCreationView.qml</file>
+    <file alias="views/CameraInputView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/CameraInputView.qml</file>
+    <file alias="views/ForgotPasswordView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/ForgotPasswordView.qml</file>
+    <file alias="views/GetStartedView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/GetStartedView.qml</file>
+    <file alias="views/HealthConditionForm.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/HealthConditionForm.qml</file>
+    <file alias="views/NutritionAndMedicationClocksView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/NutritionAndMedicationClocksView.qml</file>
+    <file alias="views/NutritionReviewView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/NutritionReviewView.qml</file>
+    <file alias="views/PersonalisedRecommendationsView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/PersonalisedRecommendationsView.qml</file>
+    <file alias="views/SignInView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/SignInView.qml</file>
+    <file alias="views/TimingClock.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/TimingClock.qml</file>
+    <file alias="views/WelcomeView.qml">/home/kyle/Programming/cpp/qt/chrononutrition/views/WelcomeView.qml</file>
+    <file alias="components/BottomNavigationBar.qml">/home/kyle/Programming/cpp/qt/chrononutrition/components/BottomNavigationBar.qml</file>
+  </qresource>
+</RCC>
+
